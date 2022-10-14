@@ -2,7 +2,7 @@
 
 ### greetings
 
-we're shiv and kamil. we're passionate about **w͇̖̲͎̎̊ͪ̐͊ͭ͑e̡̫͖̼̺͛̀̈ͨ͘b̢̫̞͉̜̺̾ͣ̐̚3̛͕͕ͧͥ̊͞** and love to **write code**.
+we're shiv and kamil. we're passionate about **w͇̖̲͎̎̊ͪ̐͊ͭ͑e̡̫͖̼̺͛̀̈ͨ͘b̢̫̞͉̜̺̾ͣ̐̚3̛͕͕ͧͥ̊͞** &nbsp;&nbsp;and love to **write code**.
 
 <br><br>
 
